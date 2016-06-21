@@ -1,0 +1,5 @@
+This repository is for the distribution of analysis tools for the profiling of SUMO and Ubiquitin post-translational modifications through the use of KGG remnant.
+
+Included:
+MS-GF+ archive for the production of param training files for new types of spectra (ScoringParamGen)
+Scripts for the processing and analysis of mass spectra
